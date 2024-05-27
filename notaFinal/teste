@@ -1,0 +1,5 @@
+git config --global user.email
+ "beatrizdassanofc@gmail.com"
+ 
+git config --global user.name
+ "Beatriz Dassan Emigdio Romano"
